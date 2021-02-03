@@ -3,6 +3,14 @@
 #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
 
 
+Say there is a storm that destroys a large proportion of each country's wheat crop:
+
+| Type of Country       | Wheat Price Change | Price of Substitutes | Production of Wheat & Substitutes |
+|-----------------------+--------------------+----------------------+-----------------------------------|
+| Price-Setting Country | Unchanged          | Unchanged            | Unchanged                         |
+| Free-Market Country   | Increases          | Increases            | Increases                         |
+|-----------------------+--------------------+----------------------+-----------------------------------|
+
 
 #+BEGIN_QUOTE
 Free markets aggregate information and organize society.
@@ -18,6 +26,11 @@ Free markets aggregate information and organize society.
 * The Role of Competition
 
 Competition and the profit motive are important to get people to incur the cost of forming correct predictions, however they not why markets exist.  If we could similarly motivate people using another method, then that would work.  However, there is no known motivation that works as well as profit[fn:1].  IT is imperative to understand, however, that money and competition are a means to an emd, and not the end itself.
+
+* Further Reading
+
+[[https://en.wikipedia.org/wiki/The_Use_of_Knowledge_in_Society][FA Hayek, The Use of Knowledge in Society (link to paper in References)]]
+
 
 * Footnotes
 
