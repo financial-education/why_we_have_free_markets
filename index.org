@@ -1,0 +1,24 @@
+#+title: Why We Have Free Markets
+#+author: Matt Brigida, Ph.D.
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+
+
+
+#+BEGIN_QUOTE
+Free markets aggregate information and organize society.
+#+END_QUOTE
+
+* Aggregating Information
+
+* Organizing Society.
+
+* Alternative Methods Of Aggregating Information and Organizing Society
+
+
+* The Role of Competition
+
+Competition and the profit motive are important to get people to incur the cost of forming correct predictions, however they not why markets exist.  If we could similarly motivate people using another method, then that would work.  However, there is no known motivation that works as well as profit[fn:1].  IT is imperative to understand, however, that money and competition are a means to an emd, and not the end itself.
+
+* Footnotes
+
+[fn:1] This is meant specifically for motivating people to make predictions regarding asset prices and then speculate based on these predictions.  There are other, and possibly better ways, to motivate people for other purposes.  For example, physicists and mathematicians are often motivated by the mere idea of discovery, and it is not clear they would be significantly more motivated by money, particularly if it caused them to have to work on uninteresting problems.  Members of the military are also an example of those motivated by reasons other than money.
