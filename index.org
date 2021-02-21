@@ -3,35 +3,68 @@
 #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
 
 
+* Video Explanation
+
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XbXzM1JEOgE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+#+end_export
+
+* Lecture Notes
+
 Say there is a storm that destroys a large proportion of each country's wheat crop:
 
-| Type of Country       | Wheat Price Change | Price of Substitutes | Production of Wheat & Substitutes |
-|-----------------------+--------------------+----------------------+-----------------------------------|
-| Price-Setting Country | Unchanged          | Unchanged            | Unchanged                         |
-| Free-Market Country   | Increases          | Increases            | Increases                         |
-|-----------------------+--------------------+----------------------+-----------------------------------|
+| Type of Country       | Wheat Price Change | Price of Substitutes | Total Production of Wheat & Substitutes |
+|-----------------------+--------------------+----------------------+-----------------------------------------|
+| Price-Setting Country | Unchanged          | Unchanged            | Decreases                               |
+| Free-Market Country   | Increases          | Increases            | Unchanged/Increases                     |
+|-----------------------+--------------------+----------------------+-----------------------------------------|
 
 
 #+BEGIN_QUOTE
 Free markets aggregate information and organize society.
 #+END_QUOTE
 
-* Aggregating Information
+** Aggregating Information
 
-* Organizing Society.
+** Organizing Society.
 
-* Alternative Methods Of Aggregating Information and Organizing Society
+** Alternative Methods Of Aggregating Information and Organizing Society
+
+*** Information Aggregation
+
+ An alternative approach is to have people who specialize in observing the supply and demand of each commodity, and setting a market clearing price.
+
+*** Organizing Society
 
 
-* The Role of Competition
 
-Competition and the profit motive are important to get people to incur the cost of forming correct predictions, however they not why markets exist.  If we could similarly motivate people using another method, then that would work.  However, there is no known motivation that works as well as profit[fn:1].  IT is imperative to understand, however, that money and competition are a means to an emd, and not the end itself.
+** The Role of Competition
 
-* Further Reading
+ Competition and the profit motive are important to get people to incur the cost of forming correct predictions, however they not why markets exist.  If we could similarly motivate people using another method, then that would work.  However, there is no known motivation that works as well as profit[fn:1].  IT is imperative to understand, however, that money and competition are a means to an end, and not the end itself.
 
-[[https://en.wikipedia.org/wiki/The_Use_of_Knowledge_in_Society][FA Hayek, The Use of Knowledge in Society (link to paper in References)]]
+** Further Reading
+
+ [[https://en.wikipedia.org/wiki/The_Use_of_Knowledge_in_Society][FA Hayek, The Use of Knowledge in Society (link to paper in References)]]
 
 
 * Footnotes
 
 [fn:1] This is meant specifically for motivating people to make predictions regarding asset prices and then speculate based on these predictions.  There are other, and possibly better ways, to motivate people for other purposes.  For example, physicists and mathematicians are often motivated by the mere idea of discovery, and it is not clear they would be significantly more motivated by money, particularly if it caused them to have to work on uninteresting problems.  Members of the military are also an example of those motivated by reasons other than money.
+
+
+# * Speculation vs Gambling
+
+# ** Speculation: you take risk for E(R) - r_f > 0
+# ** Gambling: you take risk for E(R) - r_f <= 0
+
+# * Investing
+
+# - Consumption Timing
+# - Allocate Risk
+
+# * Asset Allocation vs Security Selection
+
+# * EX ANTE Return vs Risk
+
+
+# As markets get more efficient => lower return to sec selection.
