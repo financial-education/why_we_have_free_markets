@@ -11,7 +11,7 @@
 
 * Lecture Notes
 
-Say there is a storm that destroys a large proportion of each country's wheat crop:
+Say there is a storm that destroys a large proportion of two countries' wheat crop.  One country is centrally planned, and the other has free markets.
 
 | Type of Country       | Wheat Price Change | Price of Substitutes | Total Production of Wheat & Substitutes |
 |-----------------------+--------------------+----------------------+-----------------------------------------|
