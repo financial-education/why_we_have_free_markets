@@ -11,7 +11,11 @@
 
 * Lecture Notes
 
-Say there is a storm that destroys a large proportion of two countries' wheat crop.  One country is centrally planned, and the other has free markets.
+Say there is a storm that destroys a large proportion of two countries' wheat crop.  One country is centrally planned, and the other has free markets.  The table below shows how each country responds to the reduced wheat crop.
+
+In the centrally planned (price setting) country the price of wheat is unchanged, which also leaves the quantity of wheat demanded unchanged.  The quantity and price of wheat substitutes is also unchanged.  Since there is less wheat, and the same demand, the country runs out of wheat.
+
+
 
 | Type of Country       | Wheat Price Change | Price of Substitutes | Total Production of Wheat & Substitutes |
 |-----------------------+--------------------+----------------------+-----------------------------------------|
